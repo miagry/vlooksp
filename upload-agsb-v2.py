@@ -35,7 +35,7 @@ USER_NAME = "lade1234"         # 用户名
 UUID = "51d76162-c161-4888-8c51-2650fa770764"                     # UUID，留空则自动生成
 PORT = 49999                   # Vmess端口，留空或0则自动生成
 DOMAIN = "slyfy.laoli123.dpdns.org"                   # 域名，留空则自动获取
-CF_TOKEN = "eyJhIjoiNzU0MDE5ZjBkN2IzNmMxNzYwNDE1MGNiNjhhNmE1ZDAiLCJ0IjoiZjE2NmNhMmMtY2Q5Zi00OTQyLThhYTAtY2UyOGMyMWU5ZjNlIiwicyI6IlpqRTVNVFUzT1RNdE5UVTNPQzAwTlROaExUZ3lZVFV0TmpKa1pEYzVNbVk1TXpFeSJ9"                 # Cloudflare Token，留空则用Quick Tunnel
+CF_TOKEN = "eyJhIjoiNzU0MDE5ZjBkN2IzNmMxNzYwNDE1MGNiNjhhNmE1ZDAiLCJ0IjoiOWM4M2FiNmItYzJhYi00ZTJjLTllNGMtMWMwNWRiYWEzNjZkIiwicyI6IlkyRTJNVGc1T1RJdE5qWXhZaTAwWldJM0xUaGxZMll0WlRKaFpUWmpORGMxWXpFMSJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
 # 添加命令行参数解析
